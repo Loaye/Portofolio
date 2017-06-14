@@ -1,15 +1,23 @@
+/*section:nth-of-type(1) {
+    background: url('../styles/images/landing-page-background.jpg') no-repeat center / cover;
+}*/
 
-.sabertooth {
-  height: 25px;
-  width: 25px;
+#fp-nav ul li a span,
+.fp-slidesNav ul li a span {
+    background: white;
+    width: 8px;
+    height: 8px;
+    margin: -4px 0 0 -4px;
 }
 
-.tab {
-  display: inline-block;
-}
-
-body{
-  height: 80%;
-  width: 100%;
-  background-image: url("../styles/images/landing-page-background.svg");
+#fp-nav ul li a.active span,
+.fp-slidesNav ul li a.active span,
+#fp-nav ul li:hover a.active span,
+.fp-slidesNav ul li:hover a.active span {
+    width: 16px;
+    height: 16px;
+    margin: -8px 0 0 -8px;
+    background: transparent;
+    box-sizing: border-box;
+    border: 1px solid #24221F;
 }
