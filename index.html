@@ -3,34 +3,31 @@
   <head>
     <meta charset="utf-8">
     <title>Jacob Carstens</title>
-    <meta name="viewport" content="width=device-width, intial-scale=1">
     <link rel="stylesheet" href="styles/reset.css">
-    <link rel="stylesheet" href="styles/style.css">
-    <link rel="stylesheet" href="fullPage/jquery.fullPage.css">
+    <link rel="stylesheet" href="vendors/jquery.fullPage.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="vendors/jquery.easings.min.js"></script>
+    <script src="vendors/jquery.fullPage.js"></script>
+    <!-- Initialization of plugin -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+              anchors: ['landing-page', 'about', 'projects'],
+              sectionsColor: ['black', 'green', 'blue'],
+            });
+        });
+    </script>
   </head>
   <body>
-    <header>
-      <ul class="menu-top">
-        <li>Home</li>
-        <li>Author</li>
-        <li>Projects</li>
-      </ul>
-    </header>
-
-    <h1>Jacob Carstens</h1>
-
-    <h2>Portfolio</h2>
-
-    <footer>
-      <h2>Ten Below LLC <img src="http://placehold.it/30x30"></h2>
-
-      <ul class="menu-bottom">
-        <li><img src="http://placehold.it/30x30"><a href="https://github.com/Loaye"></a></li>
-        <li><img src="http://placehold.it/30x30"><a href="https://codepen.io/Loaye/"></a></li>
-        <li><img src="http://placehold.it/30x30"><a href="https://www.linkedin.com/in/jrcarstens/"></a></li>
-      </ul>
-    </footer>
+    <div id="fullpage">
+      <div class="section" data-anchor="landing-page">Landing Page</div>
+      <div class="section" data-anchor="about">About</div>
+      <div class="section" data-anchor="projects">Projects
+        <div class="slide" data-anchor="left-slide">Left Slide</div>
+        <div class="slide" data-anchor="main-slide">Main Slide</div>
+        <div class="slide" data-anchor="right-slide">Right Slide</div>
+        <div class="slide" data-anchor="far-right-slide">Far Right Slide</div>
+      </div>
+    </div>
   </body>
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-  <script src="fullPage/jquery.fullPage.min.js"></script>
 </html>

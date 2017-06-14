@@ -1,0 +1,15 @@
+
+.sabertooth {
+  height: 25px;
+  width: 25px;
+}
+
+.tab {
+  display: inline-block;
+}
+
+body{
+  height: 80%;
+  width: 100%;
+  background-image: url("../styles/images/landing-page-background.svg");
+}
