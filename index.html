@@ -4,30 +4,37 @@
     <meta charset="utf-8">
     <title>Jacob Carstens</title>
     <link rel="stylesheet" href="styles/reset.css">
-    <link rel="stylesheet" href="vendors/jquery.fullPage.css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="vendors/jquery.easings.min.js"></script>
-    <script src="vendors/jquery.fullPage.js"></script>
-    <!-- Initialization of plugin -->
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('#fullpage').fullpage({
-              anchors: ['landing-page', 'about', 'projects'],
-              sectionsColor: ['black', 'green', 'blue'],
-            });
-        });
-    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.css">
+    <link rel="stylesheet" href="styles/style.css">
   </head>
+
   <body>
     <div id="fullpage">
-      <div class="section" data-anchor="landing-page">Landing Page</div>
-      <div class="section" data-anchor="about">About</div>
-      <div class="section" data-anchor="projects">Projects
-        <div class="slide" data-anchor="left-slide">Left Slide</div>
-        <div class="slide" data-anchor="main-slide">Main Slide</div>
-        <div class="slide" data-anchor="right-slide">Right Slide</div>
-        <div class="slide" data-anchor="far-right-slide">Far Right Slide</div>
-      </div>
+      <section class="vertical-scrolling" data-anchor="landing-page">
+        <h1>Jacob Carstens</h1>
+        <h2>Portfolio</h2>
+      </section>
+      <section class="vertical-scrolling" data-anchor="about">
+        <h2>About</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+        <img src="http://placehold.it/75x75">
+
+        <h2>Skills</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      </section>
+      <section class="vertical-scrolling" data-anchor="projects"><span>Projects</span>
+        <div class="horizontal-scrolling" data-anchor="left-slide">Left Slide</div>
+        <div class="horizontal-scrolling" data-anchor="main-slide">Main Slide</div>
+        <div class="horizontal-scrolling" data-anchor="right-slide">Right Slide</div>
+        <div class="horizontal-scrolling" data-anchor="far-right-slide">Far Right Slide</div>
+      </section>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.js"></script>
+    <!-- Initialization of plugin -->
+    <script src="scripts/initialize.js"></script>
+    </script>
   </body>
 </html>
