@@ -1,13 +1,26 @@
 section:nth-of-type(1) {
-    background: url('../styles/images/background_black.png') no-repeat center / cover;
+    background: url('../styles/images/background_black.png') no-repeat center/cover;
 }
 
 section:nth-of-type(2) {
-    background: url('../styles/images/background_brown.png') no-repeat center / cover;
+    background: url('../styles/images/background_brown.png') no-repeat center/cover;
 }
 
 section:nth-of-type(3) {
-    background: url('../styles/images/background_darkblue.png') no-repeat center / cover;
+    background: url('../styles/images/background_darkblue.png') no-repeat center/cover;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+:visited{
+  color: purple;
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 .sabertooth {
@@ -15,21 +28,33 @@ section:nth-of-type(3) {
   width: 25px;
 }
 
-#header {
-  position: fixed;
-}
-
-#footer{
-  position: fixed;
-}
-
-/*h1{
-  text-align: center
-  font-size: 30px;
+h1, h2, p {
   color: white;
-  text-decoration: underline;
+}
 
-}*/
+#header{
+  position: fixed;
+  height: 75px;
+  padding-top: 25px;
+  display: block;
+  width: 100%;
+  background-color: transparent;
+  z-index: 99999;
+  text-align: center;
+  color: white;
+}
+
+.tab-top {
+  display: inline-block;
+}
+
+.tab-bottom {
+  display: inline-block;
+}
+
+.icon {
+  color: white;
+}
 
 /*#fp-nav ul li a span,
 .fp-slidesNav ul li a span {
