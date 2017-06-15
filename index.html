@@ -3,10 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>Jacob Carstens</title>
+    <!-- Reset Style Sheet -->
     <link rel="stylesheet" href="styles/reset.css">
+    <!-- Chosen Google font for whole page -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <!-- Pre-selected Icomoon svgs in font form for this specific project -->
     <link rel="stylesheet" href="styles/fonts/icomoon/style.css">
+    <!-- Plugin design callout for fullPage.js -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.css">
+    <!-- Personal Style sheet -->
     <link rel="stylesheet" href="styles/style.css">
   </head>
 
@@ -19,7 +24,9 @@
       </ul>
     </header>
 
+    <!-- Creates an entire page that will be split into sections to act as their own page -->
     <div id="fullpage">
+      <!-- First section also know as the landing page -->
       <section class="vertical-scrolling" data-anchor="landing-page">
         <h1 class="underline">Jacob Carstens</h1>
         <h2>Portfolio</h2>
@@ -32,6 +39,7 @@
         <a href="https://www.linkedin.com/in/jrcarstens/"><span class="icon-linkedin2"></span></a>
       </section>
 
+      <!-- Second section to be the about me page -->
       <section class="vertical-scrolling" data-anchor="about">
         <h2 class="underline">About</h2>
         <p>There worse by an of miles civil. Manner before lively wholly am mr indeed expect. Among every merry his yet has her. You mistress get dashwood children off. Met whose marry under the merit. In it do continual consulted no listening. Devonshire sir sex motionless travelling six themselves. So colonel as greatly shewing herself observe ashamed. Demands minutes regular ye to detract is.</p>
@@ -50,6 +58,7 @@
         <a href="https://www.linkedin.com/in/jrcarstens/"><span class="icon-linkedin2"></span></a>
       </section>
 
+      <!-- Third and last section to display the multiple projects -->
       <section class="vertical-scrolling" data-anchor="projects"><span>Projects</span>
         <div class="horizontal-scrolling" data-anchor="left-slide">Left Slide
           <h2 class="underline"><a href="https://www.tenbelowseattle.com">Ten Below LLC</a><a href="https://www.tenbelowseattle.com"><img class="sabertooth" src="styles/images/sabertooth.png"></a></h2>
@@ -87,15 +96,16 @@
           <a href="https://github.com/Loaye"><span class="icon-github"></span></a>
 
           <a href="https://codepen.io/Loaye/"><span class="icon-codepen"></span></a>
-          
+
           <a href="https://www.linkedin.com/in/jrcarstens/"><span class="icon-linkedin2"></span></a>
         </div>
       </section>
     </div>
   </body>
+  <!--Calling on jquery for use-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+  <!-- Calling on fullpage.min for use -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.js"></script>
+  <!-- Intializes fullpage plugin -->
   <script src="scripts/initialize.js"></script>
-
-  </script>
 </html>
