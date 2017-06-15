@@ -1,3 +1,7 @@
+html {
+  font-family: 'Montserrat';
+}
+
 section:nth-of-type(1) {
     background: url('../styles/images/background_black.png') no-repeat center/cover;
 }
@@ -15,17 +19,27 @@ a {
   color: white;
 }
 
-:visited{
-  color: purple;
-}
-
 .underline {
   text-decoration: underline;
 }
 
 .sabertooth {
-  height: 25px;
-  width: 25px;
+  height: 1vw;
+}
+
+.icon-github {
+  color: white;
+  font-size: 2vw;
+}
+
+.icon-codepen {
+  color: white;
+  font-size: 2vw;
+}
+
+.icon-linkedin2 {
+  color: white;
+  font-size: 2vw;
 }
 
 h1, h2, p {

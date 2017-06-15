@@ -20,7 +20,8 @@
         "name": "home3",
         "order": 2,
         "id": 3,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59650
       },
       "setIdx": 0,
       "setId": 1,
@@ -46,7 +47,8 @@
         "name": "pencil2",
         "order": 3,
         "id": 7,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59654
       },
       "setIdx": 0,
       "setId": 1,
@@ -73,7 +75,8 @@
         "name": "quill",
         "order": 4,
         "id": 8,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59655
       },
       "setIdx": 0,
       "setId": 1,
@@ -102,7 +105,8 @@
         "name": "image",
         "order": 5,
         "id": 14,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59661
       },
       "setIdx": 0,
       "setId": 1,
@@ -132,7 +136,8 @@
         "name": "images",
         "order": 6,
         "id": 15,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59662
       },
       "setIdx": 0,
       "setId": 1,
@@ -161,7 +166,8 @@
         "name": "headphones",
         "order": 10,
         "id": 17,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59664
       },
       "setIdx": 0,
       "setId": 1,
@@ -189,7 +195,8 @@
         "name": "music",
         "order": 9,
         "id": 18,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59665
       },
       "setIdx": 0,
       "setId": 1,
@@ -215,7 +222,8 @@
         "name": "play",
         "order": 8,
         "id": 19,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59666
       },
       "setIdx": 0,
       "setId": 1,
@@ -242,7 +250,8 @@
         "name": "connection",
         "order": 7,
         "id": 28,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59675
       },
       "setIdx": 0,
       "setId": 1,
@@ -266,7 +275,8 @@
         "name": "barcode",
         "order": 15,
         "id": 56,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59703
       },
       "setIdx": 0,
       "setId": 1,
@@ -293,7 +303,8 @@
         "name": "coin-dollar",
         "order": 14,
         "id": 60,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59707
       },
       "setIdx": 0,
       "setId": 1,
@@ -321,7 +332,8 @@
         "name": "coin-euro",
         "order": 13,
         "id": 61,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59708
       },
       "setIdx": 0,
       "setId": 1,
@@ -349,7 +361,8 @@
         "name": "coin-pound",
         "order": 12,
         "id": 62,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59709
       },
       "setIdx": 0,
       "setId": 1,
@@ -377,7 +390,8 @@
         "name": "coin-yen",
         "order": 11,
         "id": 63,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59710
       },
       "setIdx": 0,
       "setId": 1,
@@ -403,7 +417,8 @@
         "name": "location2",
         "order": 17,
         "id": 73,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59720
       },
       "setIdx": 0,
       "setId": 1,
@@ -429,7 +444,8 @@
         "name": "compass2",
         "order": 18,
         "id": 75,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59722
       },
       "setIdx": 0,
       "setId": 1,
@@ -455,7 +471,8 @@
         "name": "clock",
         "order": 19,
         "id": 79,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59726
       },
       "setIdx": 0,
       "setId": 1,
@@ -481,7 +498,8 @@
         "name": "printer",
         "order": 25,
         "id": 85,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59732
       },
       "setIdx": 0,
       "setId": 1,
@@ -510,7 +528,8 @@
         "name": "display",
         "order": 24,
         "id": 87,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59734
       },
       "setIdx": 0,
       "setId": 1,
@@ -536,7 +555,8 @@
         "name": "laptop",
         "order": 23,
         "id": 88,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59735
       },
       "setIdx": 0,
       "setId": 1,
@@ -562,7 +582,8 @@
         "name": "mobile",
         "order": 22,
         "id": 89,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59736
       },
       "setIdx": 0,
       "setId": 1,
@@ -590,7 +611,8 @@
         "name": "mobile2",
         "order": 21,
         "id": 90,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59737
       },
       "setIdx": 0,
       "setId": 1,
@@ -615,7 +637,8 @@
         "name": "tablet",
         "order": 20,
         "id": 91,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59738
       },
       "setIdx": 0,
       "setId": 1,
@@ -640,7 +663,8 @@
         "name": "floppy-disk",
         "order": 26,
         "id": 99,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59746
       },
       "setIdx": 0,
       "setId": 1,
@@ -667,7 +691,8 @@
         "name": "key",
         "order": 27,
         "id": 142,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59789
       },
       "setIdx": 0,
       "setId": 1,
@@ -697,7 +722,8 @@
         "name": "leaf",
         "order": 28,
         "id": 165,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59812
       },
       "setIdx": 0,
       "setId": 1,
@@ -725,7 +751,8 @@
         "name": "rocket",
         "order": 29,
         "id": 166,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59813
       },
       "setIdx": 0,
       "setId": 1,
@@ -752,7 +779,8 @@
         "name": "fire",
         "order": 30,
         "id": 170,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59817
       },
       "setIdx": 0,
       "setId": 1,
@@ -782,7 +810,8 @@
         "name": "bin",
         "order": 31,
         "id": 173,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59820
       },
       "setIdx": 0,
       "setId": 1,
@@ -807,7 +836,8 @@
         "name": "list-numbered",
         "order": 38,
         "id": 186,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59833
       },
       "setIdx": 0,
       "setId": 1,
@@ -835,7 +865,8 @@
         "name": "list",
         "order": 37,
         "id": 187,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59834
       },
       "setIdx": 0,
       "setId": 1,
@@ -863,7 +894,8 @@
         "name": "list2",
         "order": 36,
         "id": 188,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59835
       },
       "setIdx": 0,
       "setId": 1,
@@ -889,7 +921,8 @@
         "name": "tree",
         "order": 35,
         "id": 189,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59836
       },
       "setIdx": 0,
       "setId": 1,
@@ -917,7 +950,8 @@
         "name": "menu",
         "order": 34,
         "id": 190,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59837
       },
       "setIdx": 0,
       "setId": 1,
@@ -946,7 +980,8 @@
         "name": "menu2",
         "order": 33,
         "id": 191,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59838
       },
       "setIdx": 0,
       "setId": 1,
@@ -974,7 +1009,8 @@
         "name": "menu3",
         "order": 32,
         "id": 192,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59839
       },
       "setIdx": 0,
       "setId": 1,
@@ -1002,7 +1038,8 @@
         "name": "menu4",
         "order": 39,
         "id": 193,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59840
       },
       "setIdx": 0,
       "setId": 1,
@@ -1027,7 +1064,8 @@
         "name": "cloud",
         "order": 40,
         "id": 194,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59841
       },
       "setIdx": 0,
       "setId": 1,
@@ -1054,7 +1092,8 @@
         "name": "cloud-download",
         "order": 41,
         "id": 195,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59842
       },
       "setIdx": 0,
       "setId": 1,
@@ -1081,7 +1120,8 @@
         "name": "cloud-upload",
         "order": 42,
         "id": 196,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59843
       },
       "setIdx": 0,
       "setId": 1,
@@ -1107,7 +1147,8 @@
         "name": "cloud-check",
         "order": 43,
         "id": 197,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59844
       },
       "setIdx": 0,
       "setId": 1,
@@ -1133,7 +1174,8 @@
         "name": "sphere",
         "order": 44,
         "id": 202,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59849
       },
       "setIdx": 0,
       "setId": 1,
@@ -1163,7 +1205,8 @@
         "name": "earth",
         "order": 45,
         "id": 203,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59850
       },
       "setIdx": 0,
       "setId": 1,
@@ -1191,7 +1234,8 @@
         "name": "checkmark",
         "order": 46,
         "id": 273,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 59920
       },
       "setIdx": 0,
       "setId": 1,
@@ -1219,7 +1263,8 @@
         "name": "embed",
         "order": 48,
         "id": 384,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60031
       },
       "setIdx": 0,
       "setId": 1,
@@ -1249,7 +1294,8 @@
         "name": "embed2",
         "order": 49,
         "id": 385,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60032
       },
       "setIdx": 0,
       "setId": 1,
@@ -1276,7 +1322,8 @@
         "name": "terminal",
         "order": 50,
         "id": 386,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60033
       },
       "setIdx": 0,
       "setId": 1,
@@ -1301,7 +1348,8 @@
         "name": "share2",
         "order": 51,
         "id": 387,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60034
       },
       "setIdx": 0,
       "setId": 1,
@@ -1332,7 +1380,8 @@
         "name": "mail4",
         "order": 52,
         "id": 391,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60038
       },
       "setIdx": 0,
       "setId": 1,
@@ -1359,7 +1408,8 @@
         "ligatures": "amazon, brand",
         "order": 53,
         "id": 392,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60039
       },
       "setIdx": 0,
       "setId": 1,
@@ -1384,7 +1434,8 @@
         "ligatures": "google, brand2",
         "order": 62,
         "id": 393,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60040
       },
       "setIdx": 0,
       "setId": 1,
@@ -1410,7 +1461,8 @@
         "ligatures": "hangouts, brand8",
         "order": 56,
         "id": 399,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60046
       },
       "setIdx": 0,
       "setId": 1,
@@ -1437,7 +1489,8 @@
         "name": "google-drive",
         "order": 57,
         "id": 400,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60047
       },
       "setIdx": 0,
       "setId": 1,
@@ -1463,7 +1516,8 @@
         "name": "facebook2",
         "order": 59,
         "id": 402,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60049
       },
       "setIdx": 0,
       "setId": 1,
@@ -1491,7 +1545,8 @@
         "name": "twitch",
         "order": 60,
         "id": 416,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60063
       },
       "setIdx": 0,
       "setId": 1,
@@ -1517,7 +1572,8 @@
         "name": "vimeo",
         "order": 61,
         "id": 417,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60064
       },
       "setIdx": 0,
       "setId": 1,
@@ -1543,7 +1599,8 @@
         "name": "steam",
         "order": 63,
         "id": 429,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60076
       },
       "setIdx": 0,
       "setId": 1,
@@ -1570,7 +1627,8 @@
         "name": "github",
         "order": 65,
         "id": 433,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60080
       },
       "setIdx": 0,
       "setId": 1,
@@ -1595,7 +1653,8 @@
         "name": "appleinc",
         "order": 64,
         "id": 447,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60094
       },
       "setIdx": 0,
       "setId": 1,
@@ -1623,7 +1682,8 @@
         "name": "android",
         "order": 66,
         "id": 449,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60096
       },
       "setIdx": 0,
       "setId": 1,
@@ -1649,7 +1709,8 @@
         "name": "windows8",
         "order": 67,
         "id": 451,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60098
       },
       "setIdx": 0,
       "setId": 1,
@@ -1675,7 +1736,8 @@
         "name": "soundcloud",
         "order": 68,
         "id": 452,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60099
       },
       "setIdx": 0,
       "setId": 1,
@@ -1705,7 +1767,8 @@
         "name": "skype",
         "order": 69,
         "id": 454,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60101
       },
       "setIdx": 0,
       "setId": 1,
@@ -1731,7 +1794,8 @@
         "name": "reddit",
         "order": 70,
         "id": 455,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60102
       },
       "setIdx": 0,
       "setId": 1,
@@ -1759,7 +1823,8 @@
         "name": "linkedin2",
         "order": 71,
         "id": 459,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60106
       },
       "setIdx": 0,
       "setId": 1,
@@ -1785,7 +1850,8 @@
         "ligatures": "pinterest, brand72",
         "order": 76,
         "id": 466,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60113
       },
       "setIdx": 0,
       "setId": 1,
@@ -1815,7 +1881,8 @@
         ],
         "order": 75,
         "id": 473,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60120
       },
       "setIdx": 0,
       "setId": 1,
@@ -1842,7 +1909,8 @@
         "name": "chrome",
         "order": 74,
         "id": 474,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60121
       },
       "setIdx": 0,
       "setId": 1,
@@ -1869,7 +1937,8 @@
         "name": "firefox",
         "order": 73,
         "id": 475,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60122
       },
       "setIdx": 0,
       "setId": 1,
@@ -1896,7 +1965,8 @@
         "name": "IE",
         "order": 72,
         "id": 476,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60123
       },
       "setIdx": 0,
       "setId": 1,
@@ -1921,7 +1991,8 @@
         "name": "html-five",
         "order": 77,
         "id": 485,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60132
       },
       "setIdx": 0,
       "setId": 1,
@@ -1946,7 +2017,8 @@
         "name": "html-five2",
         "order": 81,
         "id": 486,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60133
       },
       "setIdx": 0,
       "setId": 1,
@@ -1971,7 +2043,8 @@
         "name": "css3",
         "order": 80,
         "id": 487,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60134
       },
       "setIdx": 0,
       "setId": 1,
@@ -1996,7 +2069,8 @@
         "name": "git",
         "order": 79,
         "id": 488,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60135
       },
       "setIdx": 0,
       "setId": 1,
@@ -2021,7 +2095,8 @@
         "name": "codepen",
         "order": 78,
         "id": 489,
-        "prevSize": 32
+        "prevSize": 32,
+        "code": 60136
       },
       "setIdx": 0,
       "setId": 1,
@@ -2029,6 +2104,9 @@
     }
   ],
   "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
   "preferences": {
     "showGlyphs": true,
     "showQuickUse": true,
