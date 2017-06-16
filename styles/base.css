@@ -36,3 +36,25 @@ section:nth-of-type(3) {
   color: white;
   font-size: 2vw;
 }
+
+h1, h2, p {
+  color: white;
+}
+
+.name {
+  font-size: 1em;
+  text-shadow: 2px 2px 3px black;
+  text-align: center;
+}
+
+.portfolio {
+  margin-top: 10px;
+  font-size: .5em;
+  text-shadow: 2px 2px 3px black;
+  display: inline-block;
+  margin: 0 auto;
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  margin-bottom: -1px;
+}
