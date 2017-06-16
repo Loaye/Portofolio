@@ -1,0 +1,115 @@
+html {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: extra-light;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+.page-wrap{
+  width: 1680px;
+  margin: 0 auto;
+}
+
+data-anchor{
+  display: none;
+}
+
+section:nth-of-type(1) {
+    background: url('../styles/images/background_black.png') no-repeat center/cover;
+}
+
+section:nth-of-type(2) {
+    background: url('../styles/images/background_brown.png') no-repeat center/cover;
+}
+
+section:nth-of-type(3) {
+    background: url('../styles/images/background_darkblue.png') no-repeat center/cover;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin: 5px 10px;
+  text-shadow: 2px 2px 3px black;
+}
+
+.underline {
+   display: inline-block;
+   text-decoration: none;
+   border-bottom: 1px solid white;
+   margin-bottom: -1px;
+}
+
+.sabertooth {
+  height: 1vw;
+  text-decoration: none;
+}
+
+.icon-github {
+  color: white;
+  font-size: 2vw;
+}
+
+.icon-codepen {
+  color: white;
+  font-size: 2vw;
+}
+
+.icon-linkedin2 {
+  color: white;
+  font-size: 2vw;
+}
+
+h1, h2, p {
+  color: white;
+}
+
+.name {
+  font-size: 100px;
+  text-shadow: 2px 2px 3px black;
+  text-align: center;
+}
+
+.portfolio {
+  margin-top: 10px;
+  font-size: 50px;
+  text-shadow: 2px 2px 3px black;
+  display: inline-block;
+  margin: 0 auto;
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  margin-bottom: -1px;
+
+}
+
+#header {
+  position: fixed;
+  height: 75px;
+  padding-top: 25px;
+  display: block;
+  width: 100%;
+  z-index: 99999;
+  color: #fff;
+}
+
+.icon {
+  color: white;
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: grey;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  background-color: red;
+}
