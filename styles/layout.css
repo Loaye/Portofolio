@@ -1,11 +1,5 @@
 html {
   font-family: 'Ubuntu', sans-serif;
-  font-style: extra-light;
-}
-
-body {
-  text-align: center;
-  background-color: black;
 }
 
 .page-wrap{
@@ -13,10 +7,7 @@ body {
   margin: 0 auto;
 }
 
-data-anchor{
-  display: none;
-}
-
+/*Link Styles*/
 a {
   text-decoration: none;
   color: white;
@@ -24,31 +15,15 @@ a {
   text-shadow: 2px 2px 3px black;
 }
 
-h1, h2, p {
-  color: white;
-}
-
-.name {
-  font-size: 100px;
-  text-shadow: 2px 2px 3px black;
-  text-align: center;
-}
-
-.portfolio {
-  margin-top: 10px;
-  font-size: 50px;
-  text-shadow: 2px 2px 3px black;
-  display: inline-block;
-  margin: 0 auto;
-  display: inline-block;
+a:hover, a:focus {
   text-decoration: none;
-  border-bottom: 1px solid white;
-  margin-bottom: -1px;
-
+  color: grey;
 }
 
+/*Header-Footer Styles*/
 #header {
   position: fixed;
+  text-align: center;
   height: 75px;
   padding-top: 25px;
   display: block;
@@ -56,6 +31,20 @@ h1, h2, p {
   z-index: 99999;
   color: #fff;
 }
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  height: 75px;
+  padding-bottom: 25px;
+  display: block;
+  width: 100%;
+  z-index: 99999;
+  color: #fff;
+}
+
+/*Images and links inside of footer layout*/
+
 
 .icon {
   color: white;
@@ -67,10 +56,4 @@ h1, h2, p {
     border: 1px solid black;
     border-radius: 3px;
     background-color: grey;
-}
-
-.bottom {
-  position: absolute;
-  bottom: 0;
-  background-color: red;
 }
