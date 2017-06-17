@@ -1,3 +1,4 @@
+/*Backgrounds per sections*/
 section:nth-of-type(1) {
     background: url('../styles/images/background_black.png') no-repeat center/cover;
 }
@@ -10,6 +11,7 @@ section:nth-of-type(3) {
     background: url('../styles/images/background_darkblue.png') no-repeat center/cover;
 }
 
+/*Image styling*/
 .sabertooth {
   width: 1vw;
   text-decoration: none;
@@ -30,6 +32,22 @@ section:nth-of-type(3) {
   font-size: 2vw;
 }
 
+/*Defualt color for text*/
 h1, h2, p, li {
   color: white;
+}
+
+/*Main page styling*/
+.name {
+  text-align: center;
+  font-size: 5vw;
+  padding-bottom: 30px;
+  text-shadow: 3px 3px 3px #000;
+}
+
+.portfolio {
+  text-align: center;
+  font-size: 2.25vw;
+  padding-bottom: 20px;
+  text-shadow: 3px 3px 3px #000;
 }
